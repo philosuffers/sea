@@ -1,6 +1,6 @@
 # C Memory Management & Garbage Collector Implementation
 
-This project is a deep dive into manual memory management, data structures, and the implementation of garbage collection algorithms in C. It follows the principles taught in the Boot.dev course on C Programming and Memory Management, resulting in a simple object system for a custom language ("Snake Lang") with two distinct garbage collectors.
+This project is a deep dive into manual memory management, data structures, and the implementation of garbage collection algorithms in C. It follows the principles taught in C Programming and Memory Management, resulting in a simple object system for a custom language ("Sea") with two distinct garbage collectors.
 
 The core of this project is to build an understanding of how high-level language features, like automatic memory management, are implemented at a lower level.
 
